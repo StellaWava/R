@@ -1,2 +1,2 @@
 # R
-Contains 2020 Kampala Hackathon Contributions
+Contains 2020 Kampala Hackathon Contributions for Land Cover Classification
